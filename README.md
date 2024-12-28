@@ -30,8 +30,8 @@ Overall, this project aims to empower businesses with the necessary tools and in
 
 ## Customer Performance Report: Provides net sales performance of each customer across years
 
-https://github.com/simranjeetn/Sales-Analytics-FMCG-/blob/main/Customer%20Performance_ss2.png
+![Customer Performance Report.gif](https://github.com/simranjeetn/Sales-Analytics-FMCG-/blob/main/Customer%20Performance_ss2.png)
 
 	
 ## Market performance vs Target report across years: Enables stakeholders to assess the country's performance and compare it to set targets.
-https://github.com/simranjeetn/Sales-Analytics-FMCG-/blob/main/market%20peformance%20vs%20target_ss2.png
+![Market Performance Report.gif](https://github.com/simranjeetn/Sales-Analytics-FMCG-/blob/main/market%20peformance%20vs%20target_ss2.png)
